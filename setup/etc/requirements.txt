@@ -19,7 +19,6 @@ dill==0.3.3
 distro==1.5.0
 fastrlock==0.6
 Flask==1.1.4
-gt4py @ git+https://github.com/gridtools/gt4py.git@50503087eae255be4bb2cc5ede0da27f3696e424
 idna==2.10
 ipykernel==5.5.5
 ipython==7.31.1
